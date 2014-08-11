@@ -1,0 +1,30 @@
+{
+  "name": "gulp-prefixer",
+  "version": "0.0.0",
+  "description": "Prefixer plugin for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jedmao/gulp-prefixer.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "prefixer"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedmao/gulp-prefixer/issues"
+  },
+  "homepage": "https://github.com/jedmao/gulp-prefixer",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "through2": "^0.5.1"
+  }
+}
